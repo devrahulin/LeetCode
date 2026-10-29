@@ -8,8 +8,8 @@
 Array, String, Divide and Conquer, Bit Manipulation, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 96 ms
+- **Memory:** 252 MB
 
 ---
 
