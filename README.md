@@ -1,6 +1,7 @@
 # ⚡ LeetCode Solutions
 
 Personal repository containing curated LeetCode solutions, structured by programming language and difficulty level.
+right now not completly arranged 
 
 ## 📊 Progress Overview
 
