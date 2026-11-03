@@ -1,8 +1,8 @@
 # ⚡ LeetCode Solutions
 
 Personal repository containing curated LeetCode solutions, structured by programming language and difficulty level.
-right now not completly arranged hehehe sorry 
-
+right now not completly arranged hehehe sorry will arrange everything after 13th 
+nov
 ## 📊 Progress Overview
 
 **Total Unique Problems:** `129`
