@@ -1,8 +1,7 @@
 # ⚡ LeetCode Solutions
 
 Personal repository containing curated LeetCode solutions, structured by programming language and difficulty level.
-right now not completly arranged hehehe sorry will arrange everything after 13th kar dunga reew jaldi he 
-nov hmmm ok hmm 🤔 hshsh hh
+
 ## 📊 Progress Overview
 
 **Total Unique Problems:** `129`
