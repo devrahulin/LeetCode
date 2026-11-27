@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations">Count Non-Decreasing Subarrays After K Operations</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters">Shortest Path With At Most K Consecutive Identical Characters</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />

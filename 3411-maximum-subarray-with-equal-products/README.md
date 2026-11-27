@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-subarray-with-equal-products">Maximum Subarray With Equal Products</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />

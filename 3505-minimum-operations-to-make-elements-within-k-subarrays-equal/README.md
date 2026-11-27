@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal">Minimum Operations to Make Elements Within K Subarrays Equal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />

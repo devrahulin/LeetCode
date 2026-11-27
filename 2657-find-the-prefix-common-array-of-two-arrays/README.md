@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays">Find the Prefix Common Array of Two Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />

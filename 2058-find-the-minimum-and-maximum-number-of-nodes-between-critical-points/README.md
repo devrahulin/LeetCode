@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points">Find the Minimum and Maximum Number of Nodes Between Critical Points</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />

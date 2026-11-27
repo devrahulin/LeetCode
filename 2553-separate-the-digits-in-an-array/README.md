@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/separate-the-digits-in-an-array">Separate the Digits in an Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/count-magical-substring-pairs-ii">Count Magical Substring Pairs II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />

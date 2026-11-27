@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/minimum-score-by-changing-two-elements">Minimum Score by Changing Two Elements</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />

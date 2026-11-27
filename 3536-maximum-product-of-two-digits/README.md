@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-product-of-two-digits">Maximum Product of Two Digits</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />

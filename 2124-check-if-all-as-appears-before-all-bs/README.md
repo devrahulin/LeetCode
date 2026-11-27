@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/check-if-all-as-appears-before-all-bs">Check if All A's Appears Before All B's</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />

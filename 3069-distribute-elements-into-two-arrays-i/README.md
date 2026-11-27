@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i">Distribute Elements Into Two Arrays I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />

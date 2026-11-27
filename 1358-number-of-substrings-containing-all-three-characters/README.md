@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters">Number of Substrings Containing All Three Characters</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/product-of-the-last-k-numbers">Product of the Last K Numbers</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
