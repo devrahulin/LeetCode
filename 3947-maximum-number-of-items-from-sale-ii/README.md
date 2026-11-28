@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-number-of-items-from-sale-ii">Maximum Number of Items From Sale II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
